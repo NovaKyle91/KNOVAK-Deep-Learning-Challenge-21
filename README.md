@@ -8,7 +8,7 @@ Please review my code and results from my first run by opening the First Run_sta
 
 The folder labeled Initial Starter Code is where you can find the initial ipynb file used to complete this assignment.
 
-Opt Run .ipynbs folder contains the .ipynb code used for each optimization of the model. Whereas the folder labeled Optimalizations is where you can find each HDF5 file from each optimization of the model.
+Opt Run .ipynbs folder contains the .ipynb code used for each optimization of the model. Whereas the folder labeled Optimalizations is where you can find each HDF5 file from each optimization of the model. Please note that you will most likely need to use Google Collab to run code and view the HDF5 Results files. Reviewing the code for each Opt run should still have the results saved.
 
 Below you can find my Neural Network Model Analysis with answers to the questions provided. You can also find this document in the folder labeled Model Analysis.
 
